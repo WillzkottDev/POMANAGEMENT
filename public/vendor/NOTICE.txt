@@ -1,0 +1,5 @@
+SheetJS Community Edition 0.20.3
+Copyright (C) 2013-present SheetJS
+https://sheetjs.com/
+Distributed under the Apache License, Version 2.0; see LICENSE.txt.
+Unmodified distribution: https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js
